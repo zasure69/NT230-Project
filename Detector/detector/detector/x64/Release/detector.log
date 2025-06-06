@@ -1,0 +1,8 @@
+﻿  detector.cpp
+c:\users\pc\desktop\detector\detector\detector.cpp(165): warning C4101: 'bytesReturned': unreferenced local variable
+  Generating code
+  3 of 14 functions (21.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  detector.vcxproj -> C:\Users\pc\Desktop\detector\x64\Release\detector.exe

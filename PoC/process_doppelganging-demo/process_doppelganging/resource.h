@@ -1,0 +1,2 @@
+#define RESOURCE_H
+#define IDR_PAYLOAD 101

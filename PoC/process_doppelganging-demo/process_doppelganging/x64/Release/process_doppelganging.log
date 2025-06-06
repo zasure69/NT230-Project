@@ -1,0 +1,14 @@
+﻿  main.cpp
+  ntdll_undoc.cpp
+  pe_hdrs_helper.cpp
+  process_env.cpp
+D:\TLHT\HK2_2024-2025\CoCheHoatDongMaDoc\DoAn\Sourcecode\ProcessDoppelganging\process_doppelganging-0.4\process_env.cpp(166,13): warning C4477: 'wprintf' : format string '%.*s' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      D:\TLHT\HK2_2024-2025\CoCheHoatDongMaDoc\DoAn\Sourcecode\ProcessDoppelganging\process_doppelganging-0.4\process_env.cpp(166,13):
+      this argument is used as a precision
+  
+  util.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 106 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  process_doppelganging.vcxproj -> D:\TLHT\HK2_2024-2025\CoCheHoatDongMaDoc\DoAn\Sourcecode\ProcessDoppelganging\process_doppelganging-demo\x64\Release\process_doppelganging.exe

@@ -1,0 +1,5 @@
+﻿  detector.cpp
+c:\users\pc\desktop\detector\detector\detector.cpp(14): warning C4101: 'bytesReturned': unreferenced local variable
+detector.obj : error LNK2019: unresolved external symbol _FilterConnectCommunicationPort@24 referenced in function _wmain
+detector.obj : error LNK2019: unresolved external symbol _FilterGetMessage@16 referenced in function _wmain
+C:\Users\pc\Desktop\detector\Debug\detector.exe : fatal error LNK1120: 2 unresolved externals

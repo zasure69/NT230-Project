@@ -1,0 +1,23 @@
+﻿  Building 'TxFMonitorMinifilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\TxFMonitorMinifilter.inf
+  Stamping [Version] section with DriverVer=05/29/2025,17.40.20.774
+C:\Users\pc\Desktop\TxFMonitorMinifilter\TxFMonitorMinifilter\TxFMonitorMinifilter.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  TxFMonitorMinifilter.c
+  TxFMonitorMinifilter.vcxproj -> C:\Users\pc\Desktop\TxFMonitorMinifilter\x64\Release\TxFMonitorMinifilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\pc\Desktop\TxFMonitorMinifilter\x64\Release\TxFMonitorMinifilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\pc\Desktop\TxFMonitorMinifilter\x64\Release\TxFMonitorMinifilter\txfmonitorminifilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\pc\Desktop\TxFMonitorMinifilter\x64\Release\TxFMonitorMinifilter\txfmonitorminifilter.cat
+  

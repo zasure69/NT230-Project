@@ -1,0 +1,6 @@
+﻿  Building 'TxFMonitorMinifilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\TxFMonitorMinifilter.inf
+  Stamping [Version] section with DriverVer=05/24/2025,11.10.10.495
+C:\Users\pc\Desktop\TxFMonitorMinifilter\TxFMonitorMinifilter\TxFMonitorMinifilter.inf(10-10): error 1286: Invalid Class value "_TODO_Change_Class_appropriately_" exceeds max length of 31.
+C:\Users\pc\Desktop\TxFMonitorMinifilter\TxFMonitorMinifilter\TxFMonitorMinifilter.inf(11-11): error 1010: Invalid ClassGuid "{_TODO_Change_ClassGuid_appropriately_}", expecting {XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}.
+C:\Users\pc\Desktop\TxFMonitorMinifilter\TxFMonitorMinifilter\TxFMonitorMinifilter.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
